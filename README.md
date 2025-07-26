@@ -44,7 +44,7 @@ The model used:
 
 ## 📎 Repository
 
-🔗 GitHub: [Electric Vehicle Analysis Dashboard](https://github.com/Aaryan1901/Electric_Vehicle_Analysis)
+🔗 GitHub: [Electric Vehicle Analysis Dashboard](https://github.com/Aaryan1901/Electric-Vehicles-Analysis)
 
 ---
 
