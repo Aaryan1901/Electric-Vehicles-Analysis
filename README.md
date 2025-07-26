@@ -26,7 +26,6 @@ As part of my internship at **Unilever**, I developed this comprehensive dashboa
 ## 🔬 Predictive Analysis
 
 The model used:
-- TensorFlow/Keras with Dense and Conv1D layers
 - Forecasted EV counts by year (2025–2030)
 - Evaluation metrics: MAE, MSE, R²
 - Preprocessing steps included signal parsing, dropout layers, and early stopping for tuning
@@ -36,7 +35,7 @@ The model used:
 ## 📊 Tools Used
 
 - **Power BI** (for dashboard creation)
-- **Python** (TensorFlow, NumPy, Pandas)
+- **Python** (NumPy, Pandas)
 - **Jupyter Notebook** (Model training and prediction)
 - **CSV Dataset** (Public EV registry & emissions eligibility data)
 
